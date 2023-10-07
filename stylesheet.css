@@ -1,5 +1,10 @@
-.para-class {
+#para-class {
     color: darkcyan;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:aquamarine;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
 }
